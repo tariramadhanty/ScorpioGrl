@@ -47,6 +47,5 @@ int checksum = 0;
     printf("Nomor kartu anda: %s\n", cardNumber);
     printf("Tipe kartu anda: TIDAK VALID\n");
   }
-
   return 0;
 }
